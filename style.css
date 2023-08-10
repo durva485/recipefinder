@@ -107,13 +107,5 @@ body {
   #results a:hover {
     background-color: #0069d9;
   }
-@media screen and (max-width:600px){
-    h1 {
-        flex-direction: column;
-    }
-    form{
-        width: 80%;
-        margin-top:20px;
-    }
-}
+
 
